@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rookiecoder18
+- 👋 Hi, I’m Sanjay
 - 👀 I’m interested in Data Science and Machine Learning
 - 🌱 I’m learning Python 
 - ✨ I'm in love with Python
